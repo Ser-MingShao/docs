@@ -11,6 +11,7 @@ sidebar: auto
 
 | 博主 | 链接 | 框架 |主题 |
 | ---- | ---- | ---- | ---- |
+| SerMs | [散心池](https://ser-mingshao.github.io/artitalk/) | Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) |
 | Colsrch | [闲言碎语](https://colsrch.cn/shuoshuo/) | Hexo | [Volantis](https://github.com/volantis-x/hexo-theme-volantis) |
 | Flexiston | [说说](https://blog.flesx.cn/say/) | Hexo | [Cards](https://github.com/ChrAlpha/hexo-theme-cards) |
 | Ray | [闲言碎语](https://raycoder.me/shuoshuo/) | Hugo | [Tony](https://github.com/ThemeTony/hugo-theme-tony) |
